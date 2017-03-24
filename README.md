@@ -21,4 +21,3 @@ export PATH=${PATH}:~/bin
 ##树莓派编译固件
 export PATH=/home/yi/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin:$PATH
 
-
