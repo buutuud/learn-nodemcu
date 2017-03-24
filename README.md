@@ -15,10 +15,13 @@ esptool.py --port COM4 write_flash 0x1000 my_app-0x01000.bin
 ```
 
 ##固件编译流程
+```
 export PATH=/home/yi/esp-open-sdk/xtensa-lx106-elf/bin:$PATH
 export PATH=${PATH}:~/bin
+```
 
 ##树莓派编译固件
+```
 export PATH=/home/yi/tools/arm-bcm2708/gcc-linaro-arm-linux-gnueabihf-raspbian-x64/bin:$PATH
-
+```
 
